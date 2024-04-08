@@ -1,4 +1,7 @@
 # Birdie Flap
+
+![Banner](flappy.avif)
+
 Witness the AI Birdie Flap!
 An AI that plays flappy bird! Using the NEAT python module.
 
